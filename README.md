@@ -1,6 +1,6 @@
 👋 Welcome to LuffyBrad's Playground!
 
-Hello, world! I'm *LuffyBrad, your friendly neighborhood backend developer with a passion for turning ideas into reality. I specialize in building robust and scalable applications using **PHP, **Node.js, and **Ruby on Rails*. 
+Hello, world! I'm LuffyBrad, your friendly neighborhood backend developer with a passion for turning ideas into reality. I specialize in building robust and scalable applications using PHP, Node.js, and Ruby on Rails. 
 
 🚀 What I Do
 I thrive on challenges and love crafting seamless backend solutions that power amazing user experiences. My journey in coding is driven by curiosity and a desire to innovate. Here are some of the technologies I enjoy working with:
