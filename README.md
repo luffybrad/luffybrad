@@ -17,4 +17,3 @@ Overview of Recent Projects by luffybrad
 - Live Demo: https://vuetify-to-do-app.vercel.app/
 
 
-<b><i>Skills</i></b>
