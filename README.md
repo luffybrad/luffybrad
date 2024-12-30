@@ -16,5 +16,5 @@ Overview of Recent Projects by luffybrad
 - Technologies Used: Vue, Vuetify
 - Live Demo: https://vuetify-to-do-app.vercel.app/
 
-<u>Skills</u>
-<b>kILLS</b>
+
+<b><i>Skills</i></b>
