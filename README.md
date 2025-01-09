@@ -6,7 +6,7 @@ As a passionate full-stack developer, I am dedicated to crafting innovative and 
 I specialize in building dynamic web applications that provide exceptional user experiences. My journey in tech has equipped me with a robust skill set in both front-end and back-end development, allowing me to tackle projects from concept to deployment. I am constantly exploring new technologies and methodologies to enhance my work and contribute effectively to team goals.
 
 
-Overview of Recent Projects by luffybrad
+Overview of Recent Public Projects by luffybrad
 1. TechHold Portfolio
   - Description: A company portfolio website
   - Live Demo: https://techholddev.com/
@@ -16,4 +16,7 @@ Overview of Recent Projects by luffybrad
 - Technologies Used: Vue, Vuetify
 - Live Demo: https://vuetify-to-do-app.vercel.app/
 
-
+3. E-commerce App
+- Description - A frontend template e-commerce app
+- Technologies Used: Vue, vuetify, pinia, typescript
+- Live Demo: https://waleopard.vercel.app/
