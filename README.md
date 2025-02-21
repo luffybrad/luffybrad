@@ -17,7 +17,6 @@ Overview of Recent Public Projects by luffybrad
 
 3. E-commerce App
 - Description - A frontend template e-commerce app
-- Technologies Used: Vue, vuetify, pinia, typescript
 - Live Demo: https://waleopard.vercel.app/
 
 4. FlagFolio
