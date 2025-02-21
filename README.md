@@ -21,6 +21,9 @@ Overview of Recent Public Projects by luffybrad
 - Technologies Used: Vue, vuetify, pinia, typescript
 - Live Demo: https://waleopard.vercel.app/
 
+4. FlagFolio
+  - Description: Displays data of different country flags
+  - Live Demo: https://flag-foli.vercel.app
 
 
 
