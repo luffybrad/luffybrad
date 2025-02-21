@@ -21,7 +21,7 @@ Overview of Recent Public Projects by luffybrad
 
 4. FlagFolio
   - Description: Displays data of different country flags
-  - Live Demo: https://flag-foli.vercel.app
+  - Live Demo: https://flag-folio.vercel.app
 
 
 
