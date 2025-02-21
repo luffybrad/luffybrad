@@ -13,7 +13,6 @@ Overview of Recent Public Projects by luffybrad
 
 2. Vuetify-to-do-app
 - Description: A sleek and user-friendly to-do application built with Vue.js and Vuetify, designed to help users manage tasks efficiently. The app features a clean interface, allowing users to add, edit, and delete tasks seamlessly.
-- Technologies Used: Vue, Vuetify
 - Live Demo: https://vuetify-to-do-app.vercel.app/
 
 3. E-commerce App
