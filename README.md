@@ -9,15 +9,16 @@ I specialize in building dynamic web applications that provide exceptional user 
 Overview of Recent Public Projects by luffybrad
 1. TechHold Portfolio
   - Description: A company portfolio website
-  - Live Demo: https://techholddev.com/
+  - Live Demo: https://techholddev.com
 
 2. Vuetify-to-do-app
 - Description: A sleek and user-friendly to-do application built with Vue.js and Vuetify, designed to help users manage tasks efficiently. The app features a clean interface, allowing users to add, edit, and delete tasks seamlessly.
 - Live Demo: https://vuetify-to-do-app.vercel.app/
 
 3. E-commerce App
-- Description - A frontend template e-commerce app
-- Live Demo: https://waleopard.vercel.app/
+- Description - A frontend e-commerce website design
+- Live Demo: https://waleopard.vercel.app
+- Live Demo: https://mobitower.vercel.ap0
 
 4. FlagFolio
   - Description: Displays data of different country flags
