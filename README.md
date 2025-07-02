@@ -17,7 +17,6 @@ Overview of Recent Public Projects by luffybrad
 
 3. E-commerce App
 - Description - A frontend e-commerce website design
-- Live Demo: https://waleopard.vercel.app
 - Live Demo: https://mobitower.vercel.app
 
 4. FlagFolio
