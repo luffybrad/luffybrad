@@ -8,24 +8,24 @@ I specialize in building dynamic web applications that provide exceptional user 
 
 Overview of Recent Public Projects by luffybrad
 1. TechHold Portfolio
-  - Description: A company portfolio website
+  - Description: A company portfolio website for the first company startup I worked in.
   - Live Demo: https://techholddev.com
 
 2. Vuetify-to-do-app
-- Description: A sleek and user-friendly to-do application built with Vue.js and Vuetify, designed to help users manage tasks efficiently. The app features a clean interface, allowing users to add, edit, and delete tasks seamlessly.
+- Description: A site in my beginner days. A sleek and user-friendly to-do application built with Vue.js and Vuetify, designed to help users manage tasks efficiently.
 - Live Demo: https://vuetify-to-do-app.vercel.app/
 
 3. E-commerce App
-- Description - A frontend e-commerce website design
+- Description - A frontend e-commerce website design for a tech-shop business
 - Live Demo: https://mobitower.vercel.app
 
 4. FlagFolio
-  - Description: Displays data of different country flags
+  - Description: Another beginner level project. Displays data of different country flags
   - Live Demo: https://flag-folio.vercel.app
 
-
-
-
+5. Kitengela Boys Portfolio
+   - Description: A high-school portfolio website for one of my long-time clients.
+   - Live Demo: https://kitengelaboyshighschool.sc.ke/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradley-njuguna-942312211) 
