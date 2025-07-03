@@ -17,10 +17,6 @@ Live Demo: https://vuetify-to-do-app.vercel.app/
 Description: A frontend e-commerce website designed for a tech shop, featuring product listings, a shopping cart, and a clean, user-friendly interface.
 Live Demo: https://mobitower.vercel.app
 
-4. FlagFolio
-Description: A beginner-level web application that displays country flag data, offering an interactive way to explore different nations' flags and details.
-Live Demo: https://flag-folio.vercel.app
-
 5. Kitengela Boys High School Portfolio
 Description: A client portfolio website for Kitengela Boys High School, showcasing their academic programs, achievements, and campus life.
 Live Demo: https://kitengelaboyshighschool.sc.ke/
