@@ -5,18 +5,21 @@ As a passionate full-stack developer, I am dedicated to crafting innovative and 
 I specialize in building dynamic web applications that provide exceptional user experiences. My journey in tech has equipped me with a robust skill set in both front-end and back-end development, allowing me to tackle projects from concept to deployment. I am constantly exploring new technologies and methodologies to enhance my work and contribute effectively to team goals.
 
 Portfolio of Recent Public Projects by Luffybrad
-1. Company Portfolio [https://techfolio-topaz.vercel.app]  
-Description: A professional company portfolio website for TechHold, the first startup I worked with. Designed to showcase their services, team, and projects with a modern and responsive layout.
+1. Company Portfolio  
+Description: A professional company portfolio website for TechHold, the first startup I worked with. Designed to showcase their services, team, and projects with a modern and responsive layout.  
+[https://techfolio-topaz.vercel.app]
 
-3. To-Do App [https://vuetify-to-do-app.vercel.app]  
-Description: A sleek, beginner-friendly task management application built with Vue.js and Vuetify. Features intuitive UI, task creation, and completion tracking.
+3. To-Do App  
+Description: A sleek, beginner-friendly task management application built with Vue.js and Vuetify. Features intuitive UI, task creation, and completion tracking.  
+[https://vuetify-to-do-app.vercel.app]  
 
-4. E-Commerce App [https://mobitower.vercel.app]  
+5. E-Commerce App   
 Description: A frontend e-commerce website designed for a tech shop, featuring product listings, a shopping cart, and a clean, user-friendly interface.
+[https://mobitower.vercel.app]
 
-5. High School Portfolio [https://kitengelaboyshighschool.sc.ke]  
-Description: A client portfolio website for a High School, showcasing their academic programs, achievements, and school life.
- 
+7. High School Portfolio   
+Description: A client portfolio website for a High School, showcasing their academic programs, achievements, and school life.  
+[https://kitengelaboyshighschool.sc.ke]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradley-njuguna-942312211) 
