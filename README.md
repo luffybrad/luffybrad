@@ -14,7 +14,7 @@ Description: A sleek, beginner-friendly task management application built with V
 [https://vuetify-to-do-app.vercel.app]  
 
 5. E-Commerce App   
-Description: A frontend e-commerce website designed for a tech shop, featuring product listings, a shopping cart, and a clean, user-friendly interface.
+Description: A frontend e-commerce website designed for a tech shop, featuring product listings, a shopping cart, and a clean, user-friendly interface.  
 [https://mobitower.vercel.app]
 
 7. High School Portfolio   
