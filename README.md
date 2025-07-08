@@ -18,7 +18,7 @@ Description: A frontend e-commerce website designed for a tech shop, featuring p
 Live Demo: https://mobitower.vercel.app
 
 5. Kitengela Boys High School Portfolio
-Description: A client portfolio website for Kitengela Boys High School, showcasing their academic programs, achievements, and campus life.
+Description: A client portfolio website for a High School, showcasing their academic programs, achievements, and school life.
 Live Demo: https://kitengelaboyshighschool.sc.ke/
 
 ## 🌐 Socials:
