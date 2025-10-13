@@ -1,25 +1,14 @@
-Welcome to luffy's Playground!
+** Welcome to my codeground! **
 
-As a passionate full-stack developer, I am dedicated to crafting innovative and efficient web applications. Below, you will find an overview of my projects, the technologies I use, and insights into my development journey.
+- As a passionate full-stack developer, I am dedicated to crafting innovative and efficient web applications. Below, you will find an overview of my projects, the technologies I use, and insights into my development journey.
 
-I specialize in building dynamic web applications that provide exceptional user experiences. My journey in tech has equipped me with a robust skill set in both front-end and back-end development, allowing me to tackle projects from concept to deployment. I am constantly exploring new technologies and methodologies to enhance my work and contribute effectively to team goals.
+- I specialize in building dynamic web applications that provide exceptional user experiences. My journey in tech has equipped me with a robust skill set in both front-end and back-end development, allowing me to tackle projects from concept to deployment. I am constantly exploring new technologies and methodologies to enhance my work and contribute effectively to team goals.
 
-Portfolio of Recent Public Projects by Luffybrad
-1. Company Portfolio  
-Description: A professional company portfolio website for TechHold, the first startup I worked with. Designed to showcase their services, team, and projects with a modern and responsive layout.  
-[https://techfolio-topaz.vercel.app]
+- Do not hesitate to reach out for any assistance, collaboration or enquiries. Reach out through my email: [bradleykahoron399@gmail.com](bradleykahoron399@gmail.com)
 
-3. To-Do App  
-Description: A sleek, beginner-friendly task management application built with Vue.js and Vuetify. Features intuitive UI, task creation, and completion tracking.  
-[https://vuetify-to-do-app.vercel.app]  
+> You can also checkout my portfolio at [My Portfolio](https://bradleynjuguna.vercel.app)
 
-5. E-Commerce App   
-Description: A frontend e-commerce website designed for a tech shop, featuring product listings, a shopping cart, and a clean, user-friendly interface.  
-[https://mobitower.vercel.app]
-
-7. High School Portfolio   
-Description: A client portfolio website for a High School, showcasing their academic programs, achievements, and school life.  
-[https://kitengelaboyshighschool.sc.ke]
+##### OPEN TO WORK
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradley-njuguna-942312211) 
