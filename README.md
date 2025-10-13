@@ -4,7 +4,7 @@
 
 - I specialize in building dynamic web applications that provide exceptional user experiences. My journey in tech has equipped me with a robust skill set in both front-end and back-end development, allowing me to tackle projects from concept to deployment. I am constantly exploring new technologies and methodologies to enhance my work and contribute effectively to team goals.
 
-- Do not hesitate to reach out for any assistance, collaboration or enquiries. Reach out through my email: [bradleykahoron399@gmail.com](bradleykahoron399@gmail.com)
+- Do not hesitate to reach out for any assistance, collaboration or enquiries. Reach out through my email: `bradleykahoron399@gmail.com`
 
 > You can also checkout my portfolio at [My Portfolio](https://bradleynjuguna.vercel.app)
 
