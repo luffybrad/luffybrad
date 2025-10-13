@@ -1,4 +1,4 @@
-** Welcome to my codeground! **
+**Welcome to my codeground!**
 
 - As a passionate full-stack developer, I am dedicated to crafting innovative and efficient web applications. Below, you will find an overview of my projects, the technologies I use, and insights into my development journey.
 
